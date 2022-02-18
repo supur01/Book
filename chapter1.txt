@@ -1,5 +1,7 @@
-mustafa
+Hello, this chapter 1. This is an exercise to learn how to push codes to github by using command line.
 
-hello
+Hello
 
-this is fun
+Hi
+
+Good day
